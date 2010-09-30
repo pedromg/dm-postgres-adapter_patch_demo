@@ -18,7 +18,7 @@ end
 #DataMapper.auto_upgrade!
 DataMapper.finalize
 
-# To check for the Symbol class problem
+# To check for the Symbol class issue
 #
 # This works:
 # $ irb -r dm_pg_ilike_demo.rb
