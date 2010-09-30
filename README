@@ -1,4 +1,4 @@
-Demo to check the Symbol class problem after patching plugin dm-postgres-adapter with the 'ilike' operator
+Script to check the Symbol class problem after patching plugin dm-postgres-adapter with the 'ilike' operator
 
 This works:
 $ irb -r dm_pg_ilike_demo.rb
