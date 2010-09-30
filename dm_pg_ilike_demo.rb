@@ -1,8 +1,8 @@
 require 'rubygems'
 require 'dm-core'
 require 'dm-postgres-adapter'
-require 'adapter.rb'
-require 'comparison.rb'
+require 'adapter.rb'          # local; patched
+require 'comparison.rb'       # local; patched
 require 'symbol.rb'
 #require 'dm-migrations'
 
